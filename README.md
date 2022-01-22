@@ -11,11 +11,11 @@
 <p>
 
 📌	 1. What was the best part of the day?
- 
+ <br>
 📌	 2. Which aspects of my work am I most proud of?
- 
+ <br>
 📌	 3. What went wrong, and how can I make sure it doesn’t happen again?
- 
+ <br>
  
 </p>
 </details>
