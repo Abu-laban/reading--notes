@@ -2,21 +2,21 @@
 
 
 # The concept of a growth mindset is a popular topic lately
-> I sometimes say to myself :speech_balloon: “Self :man_technologist:, you need to embrace the growth mindset :brain:	. The growth mindset is :cool:	.”
- Why :question:
-   **When we’re _growing_ :person_in_tuxedo: , we’re more _productive_ :milky_way: . And when I’m _productive_ :star2:, I feel better :superhero_man:	. And you can, too. :trophy:**
+> I sometimes say to myself 💬 “Self 👨‍💻, you need to embrace the growth mindset 🧠	. The growth mindset is 🆒😎	.”
+ Why ❓
+   **When we’re _growing_ 🤵 , we’re more _productive_ 🌌 . And when I’m _productive_ 🌟, I feel better 🦸‍♂️	. And you can, too. 🏆**
 
-<details><summary> :clipboard:	So I've learned to ask myself three questions:</summary>
+<details><summary> 📋	So I've learned to ask myself three questions:</summary>
 
 <p>
 
-#### :pushpin:	 1. What was the best part of the day?
+#### 📌	 1. What was the best part of the day?
 
-#### :pushpin:	 2. Which aspects of my work am I most proud of?
+#### 📌	 2. Which aspects of my work am I most proud of?
   
-#### :pushpin:	 3. What went wrong, and how can I make sure it doesn’t happen again?
+#### 📌	 3. What went wrong, and how can I make sure it doesn’t happen again?
 
 </p>
 </details>
 
-## This site was built by :writing_hand:	[Abu-laban](https://github.com/Abu-laban).
+## This site was built by ✍	[Abu-laban](https://github.com/Abu-laban).
