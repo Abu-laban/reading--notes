@@ -22,7 +22,8 @@
 
 ## This site was built by ✍ [Abu-laban](https://github.com/Abu-laban).
 
-| Read: id |       Description       |                     Link |
-| :------- | :---------------------: | -----------------------: |
-| Read: 01 |    Learning Markdown    | [📖](code-102/read01.md) |
-| Read: 02 | Revisions and the Cloud | [📖](code-102/read02.md) |
+| Code 102 |          Description          |                     Link |
+| :------- | :---------------------------: | -----------------------: |
+| Read: 01 |       Learning Markdown       | [📖](code-102/read01.md) |
+| Read: 02 |    Revisions and the Cloud    | [📖](code-102/read02.md) |
+| Read: 03 | Structure web pages with HTML | [📖](code-102/read03.md) |
