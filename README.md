@@ -10,12 +10,13 @@
 
 <p>
 
-#### 📌	 1. What was the best part of the day?
-
-#### 📌	 2. Which aspects of my work am I most proud of?
-  
-#### 📌	 3. What went wrong, and how can I make sure it doesn’t happen again?
-
+📌	 1. What was the best part of the day?
+ 
+📌	 2. Which aspects of my work am I most proud of?
+ 
+📌	 3. What went wrong, and how can I make sure it doesn’t happen again?
+ 
+ 
 </p>
 </details>
 
