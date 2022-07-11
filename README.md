@@ -22,7 +22,7 @@
 
 ## This site was built by ✍ [Abu-laban](https://github.com/Abu-laban).
 
-<kbd>![Tariq Abu-laban](me.jpg)</kbd>
+![Tariq Abu-laban](me.jpg)
 
 | Code 102 |               Description                |                     Link |
 | :------- | :--------------------------------------: | -----------------------: |
