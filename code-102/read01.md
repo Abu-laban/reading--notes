@@ -35,3 +35,5 @@ Using Markdown is different than using a **WYSIWYG** editor. In an application l
 ### 📓 **[MarkdownGuide](https://www.markdownguide.org/basic-syntax/)**
 
 ### 📓 **[BasicWriting&FormattingSyntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)**
+
+### 📓 **[handbook markdown-guide](https://about.gitlab.com/handbook/markdown-guide/)**
