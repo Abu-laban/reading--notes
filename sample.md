@@ -88,10 +88,10 @@ function add(num1, num2) {
 
 <!-- Tables -->
 
-| test  |           test           |
-| :---- | :----------------------: |
-| test  |         Learning         |
-| test2 | [📖](code-102/read02.md) |
+| test  | test  |
+| :---- | :---: |
+| test1 | test1 |
+| test2 | test2 |
 
 <!-- Task Lists  -->
 
