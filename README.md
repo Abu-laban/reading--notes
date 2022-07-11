@@ -22,6 +22,8 @@
 
 ## This site was built by ✍ [Abu-laban](https://github.com/Abu-laban).
 
+![Tariq Abu-laban](me.jpg){: .shadow}
+
 | Code 102 |               Description                |                     Link |
 | :------- | :--------------------------------------: | -----------------------: |
 | Read: 01 | Learning Markdown [sample 📝](sample.md) | [📖](code-102/read01.md) |
