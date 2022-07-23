@@ -2,7 +2,7 @@
 
 ## An introduction to wireframing
 
-1. What is a wireframe?
+### What is a wireframe?
 
 Wireframing is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. This process focuses on how the designer or client wants the user to process information on a site, based on the user research already performed by the UX design team.
 
@@ -10,7 +10,7 @@ When designing for the screen you need to know where all the information is goin
 
 > Wireframing is also a great way of getting to know how a user interacts with your interface, through the positioning of buttons and menus on the diagrams.
 
-2. Wireframe examples
+### Wireframe examples
 
 ![wireframe-ex1](https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/versions/samuel-student-wireframe---x----972-715x---.png)
 
@@ -47,6 +47,38 @@ The main parts of our element are as follows:
 Elements can also have attributes that look like the following:
 
 ![attribute](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png)
+
+Attributes contain extra information about the element that you don't want to appear in the actual content. Here, `class` is the attribute name and `editor-note` is the attribute value. The `class` attribute allows you to give the element a non-unique identifier that can be used to target it (and any other elements with the same `class` value) with style information and other things.
+
+An attribute should always have the following:
+
+1. A space between it and the element name (or the previous attribute, if the element already has one or more attributes).
+
+1. The attribute name followed by an equal sign.
+
+1. The attribute value wrapped by opening and closing quotation marks.
+
+> **_NOTE :_** Simple attribute values that don't contain ASCII whitespace (or any of the characters **" ' ` = < >** ) can remain unquoted, but it is recommended that you quote all attribute values, as it makes the code more consistent and understandable..
+
+### Nesting elements
+
+You can put elements inside other elements too — this is called nesting.
+
+```html
+<p>My cat is <strong>very</strong> grumpy.</p>
+```
+
+You do however need to make sure that your elements are properly nested. In the example above, we opened the `<p>` element first, then the `<strong>` element; therefore, we have to close the `<strong>` element first, then the `<p>` element.
+
+### Empty elements
+
+Some elements have no content and are called empty elements. Take the `<img>` element that we already have in our HTML page:
+
+```html
+<img src="images/firefox-icon.png" alt="My test image" />
+```
+
+This contains two attributes, but there is no closing `</img>` tag and no inner content. This is because an image element doesn't wrap content to affect it. Its purpose is to embed an image in the HTML page in the place it appears.
 
 📓 **[HTML_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)**
 
